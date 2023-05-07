@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop\themes\classic\templates\checkout\_partials\steps\addresses.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="ea34b5c6cf6511c7c9e23cf7bf5d6792">
+        <source>Your address is incomplete, please update it.</source>
+        <target></target>
+        <note>Line: 115</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp\htdocs\prestashop\themes\classic\templates\customer\order-follow.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="15ef0f1f63c1e8a9fb8abad024939262">
+        <source>You have no merchandise return authorizations.</source>
+        <target></target>
+        <note>Line: 94</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,3 @@
+[2023-05-07 11:00:00] ps_accounts.INFO: Install - Loading ps_accounts Env : [] [] []
+[2023-05-07 11:35:27] ps_accounts.DEBUG: Error trying to PATCH shop : No $response object [] []
+[2023-05-07 11:37:31] ps_accounts.DEBUG: Error trying to PATCH shop : No $response object [] []

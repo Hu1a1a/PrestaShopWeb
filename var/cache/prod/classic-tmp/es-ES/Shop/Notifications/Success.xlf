@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\prestashop\themes\classic\templates\customer\addresses.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="56d3db43fb7f323139022a29d57276d8">
+        <source>No addresses are available.</source>
+        <target></target>
+        <note>Line: 42</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
